@@ -3,7 +3,7 @@ In mathematics, a multiplication table is a mathematical table used to define a 
 If a user give input 10 then it will generate the output like this.
 
 | 10 x 1 = 10 |
-| *----------*|
+| :---------: |
 | 10 x 2 = 20 |
 | 10 x 3 = 30 |
 | 10 x 4 = 40 |
