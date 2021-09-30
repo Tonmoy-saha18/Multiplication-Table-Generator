@@ -1,5 +1,6 @@
 # Multiplication-Table-Generator
 In mathematics, a multiplication table is a mathematical table used to define a multiplication operation for an algebraic system.
+
 If a user give input 10 then it will generate the output like this.
 
 | 10 x 1 = 10 |
